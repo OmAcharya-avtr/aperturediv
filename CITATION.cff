@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ApertureDiv"
+abstract: "Multi-aperture receive diversity for FSO — gamma-gamma and lognormal pdf and cdf, aperture averaging factor, inter-aperture spatial correlation against separation, maximal-ratio and equal-gain and selection combining, outage probability and diversity order, and the gap between correlated and independent-aperture idealisation; learned combiner weighting for the imperfect-CSI regime against the analytic MRC optimum."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/aperturediv"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - optical-link-engineering
